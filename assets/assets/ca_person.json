@@ -1,0 +1,34 @@
+{
+  "profile": {
+    "id": "emp001",
+    "name": "Ca Lu",
+    "sys_id": "",
+    "show": false
+  },
+  "leaves_data": {
+    "sick_leave": {
+      "display_value": "Sick Leave",
+      "allowance": 12,
+      "used": 0,
+      "available": 12
+    },
+    "annual_leave": {
+      "display_value": "Annual Leave",
+      "allowance": 14,
+      "used": 0,
+      "available": 15
+    }
+  },
+  "details": [
+    {
+      "year": 2022,
+      "month": 2,
+      "dates": [1, 2, 3, 4, 7, 8, 9, 10, 11]
+    },
+    {
+      "year": 2022,
+      "month": 3,
+      "dates": [1, 2, 3]
+    }
+  ]
+}

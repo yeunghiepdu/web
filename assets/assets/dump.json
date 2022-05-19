@@ -1,0 +1,97 @@
+[{
+    "user": {
+      "id": "flutter.user.01",
+      "name": "Ca Lu",
+      "sys_id": "",
+      "show": false
+    },
+    "leaves_data": [{
+      "type": "sick_leave",
+      "display_value": "Sick Leave",
+      "allowance": 0,
+      "used": 0,
+      "available": 0
+    }, {
+      "type": "annual_leave",
+      "display_value": "Annual Leave",
+      "allowance": 0,
+      "used": 0,
+      "available": 0
+    }],
+    "vacations": [{
+      "year": 2022,
+      "month": 2,
+      "dates": [1, 2, 3, 4, 7, 8, 9, 10, 11]
+    },{
+      "year": 2022,
+      "month": 3,
+      "dates": [1,2,3]
+    }]
+  },
+  {
+    "user": {
+      "id": "jack.lu",
+      "name": "Anh Tran Duc",
+      "sys_id": "",
+      "show": false
+    },
+    "leaves_data": [{
+      "type": "sick_leave",
+      "display_value": "Sick Leave",
+      "allowance": 0,
+      "used": 0,
+      "available": 0
+    }, {
+      "type": "annual_leave",
+      "display_value": "Annual Leave",
+      "allowance": 0,
+      "used": 0,
+      "available": 0
+    }],
+    "vacations": []
+  },
+  {
+    "user": {
+      "id": "flutter.manager.01",
+      "name": "Tien Tran",
+      "sys_id": "",
+      "show": false
+    },
+    "leaves_data": [{
+      "type": "sick_leave",
+      "display_value": "Sick Leave",
+      "allowance": 0,
+      "used": 0,
+      "available": 0
+    }, {
+      "type": "annual_leave",
+      "display_value": "Annual Leave",
+      "allowance": 0,
+      "used": 0,
+      "available": 0
+    }],
+    "vacations": []
+  },
+  {
+    "user": {
+      "id": "",
+      "name": "Tuyen Nguyen",
+      "sys_id": "",
+      "show": false
+    },
+    "leaves_data": [{
+      "type": "sick_leave",
+      "display_value": "Sick Leave",
+      "allowance": 0,
+      "used": 0,
+      "available": 0
+    }, {
+      "type": "annual_leave",
+      "display_value": "Annual Leave",
+      "allowance": 0,
+      "used": 0,
+      "available": 0
+    }],
+    "vacations": []
+  }
+]
